@@ -4,7 +4,7 @@ y=random.randint(0,3)
 if x==y:
     print("Correct")
 else:
-    print("Wrong")
+    print("Wrong One") 
     print("The Answer is");print(y)    
     
 
